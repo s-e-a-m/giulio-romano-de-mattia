@@ -77,7 +77,7 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/DMGiulioRomano"
     - label: "GitLab"
-      icon: "fab fa-fw fa-github"
+      icon: "fab fa-fw fa-gitlab"
       url: "https://gitlab.com/GiulioDeMattia"
 
 defaults:
