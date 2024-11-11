@@ -1,5 +1,7 @@
 ---
-title: "DeltaBlog"
+title: "2024-11-09 impalcatura delta"
+excerpt: "Diario Di Delta"
+classes: wide
 categories:
   - Blog
 tags:
@@ -10,3 +12,7 @@ tags:
 Riporto gli appunti e le considerazioni fatte nel processo di lavoro senza alterare l'autenticità del diario.
 
 <iframe src="https://docs.google.com/viewer?url=https://s-e-a-m.github.io/giulio-romano-de-mattia/assets/docs/2024-11-09_deltaBlog.pdf&embedded=true" width="100%" height="600px"></iframe>
+
+---
+
+E [questa](https://github.com/DMGiulioRomano/delta/tree/d6259c91d5f743e1549a24f77b78d033cdd222f3) è la versione del reporitory allo stato di lavoro del diario.
