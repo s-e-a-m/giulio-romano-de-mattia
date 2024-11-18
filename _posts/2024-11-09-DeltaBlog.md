@@ -1,5 +1,5 @@
 ---
-title: "2024-11-09 impalcatura delta"
+title: "2024-11-09"
 excerpt: "Diario Di Delta"
 classes: wide
 categories:

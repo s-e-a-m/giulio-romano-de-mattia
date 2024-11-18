@@ -1,5 +1,5 @@
 ---
-title: "2024-11-10 impalcatura delta"
+title: "2024-11-17 verso i comportamenti"
 excerpt: "Diario Di Delta"
 classes: wide
 categories:
