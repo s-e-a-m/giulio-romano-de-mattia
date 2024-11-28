@@ -7,7 +7,7 @@ categories:
 tags:
   - Delta
   - Acusmatici
-  - LezioniVitucci
+  - Lezioni
 ---
 
 Riporto gli appunti e le considerazioni fatte durante la lezione senza alterare l'autenticità del diario.
