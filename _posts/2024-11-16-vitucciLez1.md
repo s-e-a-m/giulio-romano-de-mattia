@@ -3,7 +3,7 @@ title: "2024-11-16 Appunti"
 excerpt: "Diario Di Delta - Lez"
 classes: wide
 categories:
-  - Blog
+  - Diary
 tags:
   - Delta
   - Acusmatici
