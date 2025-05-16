@@ -78,6 +78,12 @@ footer:
       icon: "fab fa-fw fa-gitlab"
       url: "https://gitlab.com/GiulioDeMattia"
 
+footer_scripts:
+  - https://cdn.plot.ly/plotly-2.27.0.min.js
+  - /assets/js/mappatura-armonica-chart.js # Nota: il percorso qui parte dalla radice del sito
+
+  
+
 defaults:
   # _posts
   - scope:
