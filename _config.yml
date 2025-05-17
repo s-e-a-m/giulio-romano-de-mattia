@@ -81,7 +81,7 @@ footer:
 footer_scripts:
   - https://cdn.plot.ly/plotly-2.27.0.min.js
   - /assets/js/mappatura-armonica-chart.js # Nota: il percorso qui parte dalla radice del sito
-
+  - https://cdn.jsdelivr.net/npm/@grame/faust-web-component@0.5.3/dist/faust-web-component.js # <--- AGGIUNGI 
   
 
 defaults:
